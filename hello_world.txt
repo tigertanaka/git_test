@@ -1,1 +1,9 @@
 Hello World
+
+This is Chris C.
+
+I am transmitting from Seattle WA December 8th 2023
+
+I am learning GIT, GITHUB, for this example
+
+Over and Out!
